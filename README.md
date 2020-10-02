@@ -28,7 +28,7 @@ A sample template for writing a technical article :unicorn: <br />
 
 ## Title
 
-As the name implies, this is the title of your article which describes what your article entails. Ensure to use title case here.
+As the name suggests, this is the title of your article which describes what your article entails. Ensure to use title case here.
 
 - What will a reader accomplish after reading your article?
 - Include the goal of the article in the title.
